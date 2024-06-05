@@ -1,2 +1,2 @@
-#Data Analysist
-###Master Degree
+#Data Analysist;
+###Master Degree;
