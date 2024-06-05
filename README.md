@@ -1,2 +1,2 @@
-#Data Analysist;
-###Master Degree;
+# DATA ANALYST
+## Project 1: Movie Statistics
